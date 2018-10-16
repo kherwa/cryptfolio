@@ -1,0 +1,26 @@
+.sprite {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background: url("/images/coins/default.png");
+	background-size: 25px 25px;
+}
+.cointable {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.coinname p {
+    margin: 5px;
+    padding-left: 25px;
+}
+.hidden {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+.space {
+    margin: 2px;
+}

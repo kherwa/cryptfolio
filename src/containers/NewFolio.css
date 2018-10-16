@@ -1,0 +1,12 @@
+.NewFolio .lander {
+    padding: 80px 0;
+    text-align: center;
+  }
+  
+.NewFolio .lander h1 {
+    font-weight: 600;
+  }
+  
+.NewFolio .lander p {
+    color: #999;
+  }
