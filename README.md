@@ -1,4 +1,4 @@
-##CryptFolio
+## CryptFolio
 
 A dApp where you can create and store your encrypted cryptocurrency portfolio on IPFS and link it with a ethereum account using metamask extension. This dApp is build using create-react-app, and still a work in progress.
 
@@ -14,7 +14,8 @@ Steps:
    passphrase and displayed.
 
 
-##Usage
+## Usage
+
 To run locally:
 
 `npm run` 
